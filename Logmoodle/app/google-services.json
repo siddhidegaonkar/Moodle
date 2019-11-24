@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "372829482377",
+    "firebase_url": "https://logmoodle-b73a7.firebaseio.com",
+    "project_id": "logmoodle-b73a7",
+    "storage_bucket": "logmoodle-b73a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372829482377:android:a935ee4041e6f5a2",
+        "android_client_info": {
+          "package_name": "com.example.admin.logmoodle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372829482377-3cgc71l0fjcuurcfthi72qi6k11vdqe1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin.logmoodle",
+            "certificate_hash": "d2f8d9fbe74529b7dc466a575b06320efd646a2e"
+          }
+        },
+        {
+          "client_id": "372829482377-lkcqmdgb5uf40orhbdcq0e8rdk8lclbt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2TV6kj6Y0ka5biz0XWsMar44cdqphUvI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372829482377-lkcqmdgb5uf40orhbdcq0e8rdk8lclbt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

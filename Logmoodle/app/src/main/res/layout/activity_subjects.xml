@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back"
+    tools:context="com.example.admin.logmoodle.Subjects">
+    <Button
+        android:id="@+id/button"
+        android:layout_width="251dp"
+        android:layout_height="56dp"
+        android:layout_marginLeft="67dp"
+        android:layout_marginTop="57dp"
+        android:background="@android:color/white"
+        android:onClick="Dbms"
+        android:text="DATABASE MANAGEMENT SYSTEMS"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="251dp"
+        android:layout_height="56dp"
+        android:layout_marginLeft="67dp"
+        android:layout_marginTop="138dp"
+        android:background="@android:color/white"
+        android:onClick="cn"
+        android:text="COMPUTER NETWORKS"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="251dp"
+        android:layout_height="56dp"
+        android:layout_marginLeft="67dp"
+        android:layout_marginTop="310dp"
+        android:background="@android:color/white"
+        android:onClick="isee"
+        android:text="INFORMATION SYSTEMS AND ENGINEERING ECONOMICS"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="251dp"
+        android:layout_height="56dp"
+        android:layout_marginLeft="67dp"
+        android:layout_marginTop="227dp"
+        android:background="@android:color/white"
+        android:onClick="toc"
+        android:text="THEORY OF COMMUNICATIONS"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="251dp"
+        android:layout_height="56dp"
+        android:layout_marginLeft="67dp"
+        android:layout_marginTop="402dp"
+        android:background="@android:color/white"
+        android:onClick="sepm"
+        android:text="SOFTWARE ENGINEERING AND PROJECT MANAGEMENT"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</android.support.constraint.ConstraintLayout>
